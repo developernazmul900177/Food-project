@@ -1,0 +1,338 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background:rgba(0,0,0,0.5)url("/Images/head-bg.png");
+    height: 80vh;
+    background-size: cover;
+    background-blend-mode: darken;
+    
+}
+header h2{
+    margin: 0px 50px;
+}
+header .menu a{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+}
+header .menu a:hover{
+    color: #f64b3c;
+}
+header .menubar{
+    padding: 40px 0px;
+}
+header .left{
+    color: #fff;
+    margin-top: 7%;
+}
+header .left h1{
+    font-size: 
+    80px;
+}
+header .left p{
+    font-size: 
+    20px;
+    padding: 20px 0px;
+}
+header .left a{
+    background-color: #f64b3c;
+    color: #fff;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+    
+
+}
+header .left a:hover{
+    color: aqua;
+}
+#man{
+    background: url("Images/man-bg.png");
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#man .man2{
+    margin: 0px 30px;
+}
+#man img{
+    width: 80%;
+}
+#man .head-text{
+    padding-top: 9%;
+}
+#man h2{
+    color: #f64b3c;
+    font-size: 40px;
+}
+#man h3{
+    color: #f64b3c;
+    font-size: 30px;
+}
+#man p{
+    color: #f64b3c;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#man .all-man{
+    margin-top: 7%;
+}
+
+#best-burger{
+    background-color: #f64b3c;
+    height: 70vh;
+
+}
+
+#best-burger img{
+    margin-top: 25%;
+    margin-left: 10%;
+}
+#best-burger h2{
+    color: #fff;
+    font-size: 40px;
+}
+#best-burger p{
+    font-size: 20px;
+    color: #fff;
+    padding: 20px 0px;
+}
+#best-burger a{
+    background-color: #fff;
+    color: #f64b3c;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px 30px;
+}
+#best-burger .text{
+    margin-top: 30%;
+}
+
+
+#big-barger{
+    background: url("Images/big-barger-bg.png");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+}
+
+#big-barger img{
+    margin-top: 37%;
+    margin-left: 20%;
+    
+}
+#big-barger .text{
+    margin-top: 42%;
+    margin-left: 10%;
+}
+#big-barger h2{
+    color: #f64b3c;
+    font-size: 40px;
+    
+}
+#big-barger p{
+    color: #f64b3c;
+    font-size: 20px;
+    padding: 30px 0px;
+}
+#big-barger a{
+    background-color: #f64b3c;
+    color: #fff;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+#statistic{ 
+    padding-top: 50px;
+    background-color: #f64b3c;
+    height: 60vh;
+}
+#statistic .text-head h2{
+    font-size: 62px;
+}
+#statistic .text-head p{
+    font-size: 20px;
+    margin: 30px 0px;
+}
+#statistic .div1{
+    padding: 50px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+}
+#statistic .extra{
+    margin: 0px 50px;
+}
+#statistic .div1 h3{
+    font-size: 50px;
+}
+#statistic .div1 p{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+#popular{
+    background: url("Images/popular-bg.png");
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+#popular h2{
+    color: #f64b3c;
+    font-size: 55px;
+    padding-top: 70px;
+}
+
+#popular .my-card{
+    margin-top: 100px;
+}
+#popular .second{
+    margin: 0px 20px;
+}
+#popular .card h5{
+    color: #f64b3c;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0px;
+}
+#popular .card img{
+    margin: 0 auto;
+    display: block;
+    
+}
+#popular .card h6{
+    font-size: 20px;
+    color: #f64b3c;
+    text-align: center;
+    margin: 20px 0px;
+}
+#popular .card p{
+    color: #f64b3c;
+    text-align: center;
+}
+#popular .card .btn{
+    background-color: #f64b3c;
+    color: #fff;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#barry{
+    background: url("/Images/barry-bg.png");
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#barry .text-area{
+    padding-top: 170px;
+    
+}
+
+#barry p{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+}
+#barry h3{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+
+
+
+#miss{
+    background: url("/Images/miss-bg.png");
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+
+}
+#miss .text-area{
+    padding-top: 250px;
+}
+#miss h2{
+    color: #f64b3c;
+    font-size: 40px;
+    font-weight: 600;
+}
+#miss p{
+    color: #f64b3c;
+    font-size: 20px;
+    
+}
+#miss .input-area{
+    margin-top: 50px;
+}
+#miss input{
+    border: none;
+    outline: none;
+    width: 40%;
+    padding: 10px 0px;
+    
+}
+#miss input::placeholder{
+    color: rgb(177, 170, 170);
+    padding: 0px 20px;
+    font-weight: bold;
+}
+#miss a{
+    background-color: #f64b3c;
+    color: #fff;
+    padding: 7px 30px;
+   margin-left: -10%;
+    margin-top: -5px;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+
+footer{
+    background-color: #222222;
+    color: #fff;
+    padding: 100px 0px;
+}
+
+footer a{
+    text-decoration: none;
+    padding: 5px 0px;
+    display: block;
+    color: #fff;
+    
+}
+footer li{
+    list-style-type: none;
+}
+footer .service h4{
+    margin-left: 20px;
+}
+footer .other h4{
+    margin-left: 20px;
+}
+footer .about a{
+    margin-left: -20px;
+}
+footer p{
+    margin: 20px 0px;
+}
+footer i{
+    font-size: 24px;
+    margin-left: 10px;
+    color: #fff;
+}
+footer i:first-child{
+    margin-left: -0px;
+}
